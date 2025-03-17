@@ -1,0 +1,11 @@
+C:\Users\MSI-1\source\repos\AddressBook\ModelLayer\bin\Debug\net6.0\ModelLayer.deps.json
+C:\Users\MSI-1\source\repos\AddressBook\ModelLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\MSI-1\source\repos\AddressBook\ModelLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\MSI-1\source\repos\AddressBook\ModelLayer\obj\Debug\net6.0\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-1\source\repos\AddressBook\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfoInputs.cache
+C:\Users\MSI-1\source\repos\AddressBook\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfo.cs
+C:\Users\MSI-1\source\repos\AddressBook\ModelLayer\obj\Debug\net6.0\ModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\MSI-1\source\repos\AddressBook\ModelLayer\obj\Debug\net6.0\ModelLayer.dll
+C:\Users\MSI-1\source\repos\AddressBook\ModelLayer\obj\Debug\net6.0\refint\ModelLayer.dll
+C:\Users\MSI-1\source\repos\AddressBook\ModelLayer\obj\Debug\net6.0\ModelLayer.pdb
+C:\Users\MSI-1\source\repos\AddressBook\ModelLayer\obj\Debug\net6.0\ref\ModelLayer.dll
